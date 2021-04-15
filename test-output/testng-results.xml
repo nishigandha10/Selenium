@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33688" started-at="2021-03-26T11:48:09Z" finished-at="2021-03-26T11:48:42Z">
+  <suite name="Default suite" duration-ms="28814" started-at="2021-04-13T12:34:50Z" finished-at="2021-04-13T12:35:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33688" started-at="2021-03-26T11:48:09Z" finished-at="2021-03-26T11:48:42Z">
-      <class name="BrokenLink.Broken">
-        <test-method status="PASS" signature="test()[pri:0, instance:BrokenLink.Broken@1794d431]" name="test" duration-ms="33642" started-at="2021-03-26T17:18:09Z" finished-at="2021-03-26T17:18:42Z">
+    <test name="Default test" duration-ms="28814" started-at="2021-04-13T12:34:50Z" finished-at="2021-04-13T12:35:19Z">
+      <class name="seleniumPractice.Demo1">
+        <test-method status="PASS" signature="m()[pri:0, instance:seleniumPractice.Demo1@1794d431]" name="m" duration-ms="28740" started-at="2021-04-13T18:04:50Z" finished-at="2021-04-13T18:05:19Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- BrokenLink.Broken -->
+        </test-method> <!-- m -->
+      </class> <!-- seleniumPractice.Demo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
