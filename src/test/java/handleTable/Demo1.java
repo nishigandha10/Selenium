@@ -18,6 +18,8 @@ public class Demo1 {
 		public void m() throws Exception
 		{
 			 WebDriverManager.chromedriver().browserVersion("89.0.4389.90").setup();
+			
+			System.out.println("hiiiiiiiiiiii");
 				 
 			WebDriver driver=new ChromeDriver();
 			driver.get("https://www.demoqa.com/webtables");
